@@ -6,7 +6,7 @@
 
    ``mwscrape2slob`` depends on the following components:
 
-   - [[http://github.org/itkach/slob/][Slob]]
+   - [[http://github.com/itkach/slob/][Slob]]
    - [[https://github.com/djc/couchdb-python/][couchdb-python]]
    - [[http://lxml.de][lxml]]
    - [[https://pythonhosted.org/cssselect/][cssselect]]
@@ -20,7 +20,7 @@
    #+END_SRC
 
    Create Python 3 virtual environment and install slob.py as
-   described at http://github.org/itkach/slob/.
+   described at http://github.com/itkach/slob/.
 
    In this virtual environment run
 
